@@ -1,0 +1,6 @@
+[
+  { "id": 12345, "balance": -3310.00, "type": "SAVINGS" },
+  { "id": 12456, "balance": 420.45, "type": "SAVINGS" },
+  { "id": 12567, "balance": 100.00, "type": "SAVINGS" },
+  { "id": 12678, "balance": -100.00, "type" : "SAVINGS" }
+]
